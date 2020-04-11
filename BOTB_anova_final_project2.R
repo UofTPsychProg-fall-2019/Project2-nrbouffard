@@ -30,7 +30,7 @@ set_sum_contrasts()
 ### SINGLE ITEM RECOGNITION ###
 
 ## Read in data -----
-sirdat <-read_csv('/Users/nicholebouffard/Dropbox/BOTB/SngItmRec.csv') # I'm using read_csv here instead of read.csv. You must have the tidyverse loaded first before you can use read_csv, but it reads your data into a tibble way quicker and more efficient than reading your data into a data.frame using read.csv
+sirdat <-read_csv('/Users/nicholebouffard/Documents/Github/Project2-nrbouffard/SngItmRec.csv') # I'm using read_csv here instead of read.csv. You must have the tidyverse loaded first before you can use read_csv, but it reads your data into a tibble way quicker and more efficient than reading your data into a data.frame using read.csv
 
 # Wrangle the data into long format
 sirdat <- sirdat %>% 
@@ -88,7 +88,7 @@ sirPlot2
 
 # Ok so these plots looks the same
 # Save these out to send to Rena
-#ggsave(plot = sirPlot2, '/Users/nicholebouffard/Dropbox/BOTB/single_item_recog_raincloud.png')
+#ggsave(plot = sirPlot2, '/Users/nicholebouffard/Documents/Github/Project2-nrbouffard/single_item_recog_raincloud.png')
 
 ## Now running anova and t tests
 mdl1<-aov_ez(id = 'subid',
@@ -111,7 +111,7 @@ pairs(emmeans(mdl1, 'condition'))
 #--------------------------------------#
 
 ### ASSOCIATIVE MEMORY ###
-assocdat<-read_csv('/Users/nicholebouffard/Dropbox/BOTB/AssocMem.csv') 
+assocdat<-read_csv('/Users/nicholebouffard/Documents/Github/Project2-nrbouffard/AssocMem.csv') 
 
 # Wrangle the data into long format
 assocdat <- assocdat %>% 
@@ -163,7 +163,7 @@ assocPlot2
 
 
 # These also look similar to the excel plots
-#ggsave(plot = assocPlot1, '/Users/nicholebouffard/Dropbox/BOTB/assoc_mem.png')
+#ggsave(plot = assocPlot1, '/Users/nicholebouffard/Documents/Github/Project2-nrbouffard/assoc_mem.png')
 
 
 ## Now running anova and t tests
