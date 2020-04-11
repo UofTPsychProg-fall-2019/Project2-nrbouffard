@@ -1,0 +1,237 @@
+"subid","group","stimulus","SO_DS","SO_SS","SS_DO"
+10,"YA","New Sce-New Obj",0,0,0
+10,"YA","New Sce-Old Obj",0,0.035714,0.035714
+10,"YA","Old Sce-New Obj",0.071429,0.071429,0.035714
+10,"YA","Old-Old Recomb",0.166667,0.083333,0
+11,"YA","New Sce-New Obj",0,0,0
+11,"YA","New Sce-Old Obj",0.142857,0.107143,0.142857
+11,"YA","Old Sce-New Obj",0,0.071429,0.107143
+11,"YA","Old-Old Recomb",0.083333,0.25,0.083333
+12,"YA","New Sce-New Obj",0,0,0
+12,"YA","New Sce-Old Obj",0,0,0
+12,"YA","Old Sce-New Obj",0,0,0
+12,"YA","Old-Old Recomb",0.083333,0,0
+13,"YA","New Sce-New Obj",0,0,0
+13,"YA","New Sce-Old Obj",0.035714,0.035714,0.214286
+13,"YA","Old Sce-New Obj",0,0.071429,0
+13,"YA","Old-Old Recomb",0.166667,0.166667,0.25
+14,"YA","New Sce-New Obj",0,0,0
+14,"YA","New Sce-Old Obj",0,0.071429,0.035714
+14,"YA","Old Sce-New Obj",0,0,0
+14,"YA","Old-Old Recomb",0.083333,0.083333,0
+15,"YA","New Sce-New Obj",0,0,0
+15,"YA","New Sce-Old Obj",0.035714,0,0.035714
+15,"YA","Old Sce-New Obj",0.035714,0.071429,0
+15,"YA","Old-Old Recomb",0.083333,0.25,0.083333
+16,"YA","New Sce-New Obj",0.25,0.25,0.083333
+16,"YA","New Sce-Old Obj",0.107143,0.25,0.321429
+16,"YA","Old Sce-New Obj",0.178571,0.214286,0.107143
+16,"YA","Old-Old Recomb",0.333333,0.333333,0.25
+17,"YA","New Sce-New Obj",0,0,0
+17,"YA","New Sce-Old Obj",0,0.035714,0
+17,"YA","Old Sce-New Obj",0,0,0
+17,"YA","Old-Old Recomb",0.083333,0.166667,0
+18,"YA","New Sce-New Obj",0,0,0
+18,"YA","New Sce-Old Obj",0,0.035714,0.035714
+18,"YA","Old Sce-New Obj",0.035714,0.071429,0
+18,"YA","Old-Old Recomb",0.083333,0.166667,0.166667
+19,"YA","New Sce-New Obj",0.083333,0,0
+19,"YA","New Sce-Old Obj",0.035714,0,0.035714
+19,"YA","Old Sce-New Obj",0.071429,0.035714,0
+19,"YA","Old-Old Recomb",0.083333,0,0
+20,"YA","New Sce-New Obj",0,0.083333,0
+20,"YA","New Sce-Old Obj",0.035714,0,0.035714
+20,"YA","Old Sce-New Obj",0.107143,0.071429,0
+20,"YA","Old-Old Recomb",0.25,0.166667,0.083333
+21,"YA","New Sce-New Obj",0.083333,0,0
+21,"YA","New Sce-Old Obj",0,0.035714,0.035714
+21,"YA","Old Sce-New Obj",0.035714,0,0
+21,"YA","Old-Old Recomb",0.083333,0.25,0.25
+22,"YA","New Sce-New Obj",0,0,0
+22,"YA","New Sce-Old Obj",0,0.142857,0.05
+22,"YA","Old Sce-New Obj",0,0,0
+22,"YA","Old-Old Recomb",0,0.166667,0
+23,"YA","New Sce-New Obj",0.083333,0.083333,0
+23,"YA","New Sce-Old Obj",0.142857,0.5,0.142857
+23,"YA","Old Sce-New Obj",0.107143,0.178571,0
+23,"YA","Old-Old Recomb",0.25,0.416667,0.333333
+24,"YA","New Sce-New Obj",0,0,0
+24,"YA","New Sce-Old Obj",0,0,0.035714
+24,"YA","Old Sce-New Obj",0.035714,0,0
+24,"YA","Old-Old Recomb",0,0,0
+25,"YA","New Sce-New Obj",0,0,0
+25,"YA","New Sce-Old Obj",0.035714,0.071429,0.035714
+25,"YA","Old Sce-New Obj",0.035714,0.035714,0
+25,"YA","Old-Old Recomb",0,0.166667,0.083333
+26,"YA","New Sce-New Obj",0,0,0
+26,"YA","New Sce-Old Obj",0,0,0.035714
+26,"YA","Old Sce-New Obj",0,0,0
+26,"YA","Old-Old Recomb",0,0,0.166667
+27,"YA","New Sce-New Obj",0.083333,0.25,0
+27,"YA","New Sce-Old Obj",0,0.178571,0.214286
+27,"YA","Old Sce-New Obj",0.107143,0.142857,0
+27,"YA","Old-Old Recomb",0.166667,0.333333,0.416667
+28,"YA","New Sce-New Obj",0,0.083333,0
+28,"YA","New Sce-Old Obj",0,0.071429,0.035714
+28,"YA","Old Sce-New Obj",0,0.071429,0
+28,"YA","Old-Old Recomb",0.083333,0.416667,0
+33,"YA","New Sce-New Obj",0,0,0
+33,"YA","New Sce-Old Obj",0,0.071429,0.142857
+33,"YA","Old Sce-New Obj",0,0,0
+33,"YA","Old-Old Recomb",0.083333,0.166667,0
+41,"YA","New Sce-New Obj",0.083333,0,0.083333
+41,"YA","New Sce-Old Obj",0.107143,0.107143,0.178571
+41,"YA","Old Sce-New Obj",0,0.071429,0
+41,"YA","Old-Old Recomb",0.166667,0.083333,0.25
+42,"YA","New Sce-New Obj",0,0,0
+42,"YA","New Sce-Old Obj",0,0,0.035714
+42,"YA","Old Sce-New Obj",0,0,0
+42,"YA","Old-Old Recomb",0,0,0
+43,"YA","New Sce-New Obj",0,0,0
+43,"YA","New Sce-Old Obj",0,0.035714,0.178571
+43,"YA","Old Sce-New Obj",0.142857,0.142857,0.035714
+43,"YA","Old-Old Recomb",0.166667,0.083333,0
+44,"YA","New Sce-New Obj",0,0,0
+44,"YA","New Sce-Old Obj",0,0.035714,0.214286
+44,"YA","Old Sce-New Obj",0.035714,0,0.035714
+44,"YA","Old-Old Recomb",0,0.25,0.25
+45,"YA","New Sce-New Obj",0,0,0
+45,"YA","New Sce-Old Obj",0,0.035714,0.035714
+45,"YA","Old Sce-New Obj",0,0,0
+45,"YA","Old-Old Recomb",0,0.166667,0.166667
+46,"YA","New Sce-New Obj",0,0,0
+46,"YA","New Sce-Old Obj",0,0.035714,0
+46,"YA","Old Sce-New Obj",0.178571,0.178571,0
+46,"YA","Old-Old Recomb",0.166667,0.083333,0.083333
+47,"YA","New Sce-New Obj",0,0,0
+47,"YA","New Sce-Old Obj",0,0.071429,0.071429
+47,"YA","Old Sce-New Obj",0.071429,0.178571,0
+47,"YA","Old-Old Recomb",0.25,0.166667,0.083333
+48,"YA","New Sce-New Obj",0,0,0
+48,"YA","New Sce-Old Obj",0.035714,0.178571,0.178571
+48,"YA","Old Sce-New Obj",0,0,0.107143
+48,"YA","Old-Old Recomb",0.083333,0.166667,0.083333
+49,"YA","New Sce-New Obj",0.166667,0,0
+49,"YA","New Sce-Old Obj",0.035714,0.25,0.178571
+49,"YA","Old Sce-New Obj",0.035714,0.071429,0.035714
+49,"YA","Old-Old Recomb",0.166667,0.166667,0.25
+50,"YA","New Sce-New Obj",0.166667,0,0
+50,"YA","New Sce-Old Obj",0,0.178571,0.357143
+50,"YA","Old Sce-New Obj",0.035714,0.035714,0
+50,"YA","Old-Old Recomb",0.25,0.25,0.25
+51,"YA","New Sce-New Obj",0,0,0
+51,"YA","New Sce-Old Obj",0,0.214286,0.107143
+51,"YA","Old Sce-New Obj",0.035714,0.107143,0
+51,"YA","Old-Old Recomb",0.25,0.416667,0.083333
+101,"OA","New Sce-New Obj",0,0,0
+101,"OA","New Sce-Old Obj",0.035714,0.071429,0.035714
+101,"OA","Old Sce-New Obj",0.142857,0.107143,0.035714
+101,"OA","Old-Old Recomb",0.25,0.25,0.083333
+102,"OA","New Sce-New Obj",0,0,0
+102,"OA","New Sce-Old Obj",0,0.035714,0
+102,"OA","Old Sce-New Obj",0.107143,0.035714,0
+102,"OA","Old-Old Recomb",0.333333,0.083333,0.166667
+103,"OA","New Sce-New Obj",0,0.083333,0
+103,"OA","New Sce-Old Obj",0,0.035714,0
+103,"OA","Old Sce-New Obj",0.214286,0.178571,0
+103,"OA","Old-Old Recomb",0.416667,0.166667,0.166667
+104,"OA","New Sce-New Obj",0,0,0
+104,"OA","New Sce-Old Obj",0,0.035714,0.035714
+104,"OA","Old Sce-New Obj",0,0.142857,0
+104,"OA","Old-Old Recomb",0.166667,0,0
+105,"OA","New Sce-New Obj",0,0,0
+105,"OA","New Sce-Old Obj",0.035714,0.285714,0.142857
+105,"OA","Old Sce-New Obj",0.107143,0.142857,0
+105,"OA","Old-Old Recomb",0.25,0.5,0
+106,"OA","New Sce-New Obj",0,0.083333,0
+106,"OA","New Sce-Old Obj",0,0.214286,0.107143
+106,"OA","Old Sce-New Obj",0.071429,0.035714,0
+106,"OA","Old-Old Recomb",0.166667,0.416667,0.083333
+107,"OA","New Sce-New Obj",0.083333,0,0
+107,"OA","New Sce-Old Obj",0.035714,0.25,0.071429
+107,"OA","Old Sce-New Obj",0.035714,0.035714,0.035714
+107,"OA","Old-Old Recomb",0.416667,0.333333,0.166667
+108,"OA","New Sce-New Obj",0,0,0
+108,"OA","New Sce-Old Obj",0,0.071429,0.071429
+108,"OA","Old Sce-New Obj",0.178571,0.107143,0.035714
+108,"OA","Old-Old Recomb",0.166667,0.333333,0.166667
+109,"OA","New Sce-New Obj",0.166667,0.166667,0
+109,"OA","New Sce-Old Obj",0.035714,0.392857,0.25
+109,"OA","Old Sce-New Obj",0.607143,0.5,0
+109,"OA","Old-Old Recomb",0.75,0.833333,0
+110,"OA","New Sce-New Obj",0,0,0
+110,"OA","New Sce-Old Obj",0.071429,0.107143,0.142857
+110,"OA","Old Sce-New Obj",0.357143,0.142857,0.035714
+110,"OA","Old-Old Recomb",0.083333,0.25,0.5
+111,"OA","New Sce-New Obj",0,0.083333,0
+111,"OA","New Sce-Old Obj",0.071429,0.25,0.071429
+111,"OA","Old Sce-New Obj",0.107143,0.285714,0
+111,"OA","Old-Old Recomb",0.5,0.666667,0
+112,"OA","New Sce-New Obj",0,0.166667,0
+112,"OA","New Sce-Old Obj",0,0.071429,0.035714
+112,"OA","Old Sce-New Obj",0.107143,0.035714,0
+112,"OA","Old-Old Recomb",0.083333,0.25,0.25
+113,"OA","New Sce-New Obj",0,0.083333,0
+113,"OA","New Sce-Old Obj",0,0.214286,0.107143
+113,"OA","Old Sce-New Obj",0.035714,0.142857,0
+113,"OA","Old-Old Recomb",0.333333,0.333333,0.25
+114,"OA","New Sce-New Obj",0,0,0
+114,"OA","New Sce-Old Obj",0,0.107143,0.071429
+114,"OA","Old Sce-New Obj",0,0,0
+114,"OA","Old-Old Recomb",0,0,0
+115,"OA","New Sce-New Obj",0,0,0
+115,"OA","New Sce-Old Obj",0,0.071429,0.035714
+115,"OA","Old Sce-New Obj",0,0.035714,0
+115,"OA","Old-Old Recomb",0.166667,0.083333,0
+116,"OA","New Sce-New Obj",0.083333,0.083333,0
+116,"OA","New Sce-Old Obj",0.071429,0.178571,0.214286
+116,"OA","Old Sce-New Obj",0.107143,0.107143,0
+116,"OA","Old-Old Recomb",0.666667,0.25,0.416667
+117,"OA","New Sce-New Obj",0.083333,0,0
+117,"OA","New Sce-Old Obj",0.107143,0.035714,0.142857
+117,"OA","Old Sce-New Obj",0.25,0.107143,0.035714
+117,"OA","Old-Old Recomb",0.083333,0.25,0
+118,"OA","New Sce-New Obj",0.083333,0,0
+118,"OA","New Sce-Old Obj",0,0.178571,0.035714
+118,"OA","Old Sce-New Obj",0.142857,0.142857,0
+118,"OA","Old-Old Recomb",0.416667,0.25,0.166667
+119,"OA","New Sce-New Obj",0,0.083333,0
+119,"OA","New Sce-Old Obj",0.071429,0.25,0.107143
+119,"OA","Old Sce-New Obj",0.107143,0.178571,0
+119,"OA","Old-Old Recomb",0.333333,0.25,0.166667
+120,"OA","New Sce-New Obj",0,0,0
+120,"OA","New Sce-Old Obj",0,0,0.035714
+120,"OA","Old Sce-New Obj",0,0,0
+120,"OA","Old-Old Recomb",0,0.083333,0
+141,"OA","New Sce-New Obj",0,0.083333,0
+141,"OA","New Sce-Old Obj",0.142857,0.25,0.285714
+141,"OA","Old Sce-New Obj",0.357143,0.142857,0.107143
+141,"OA","Old-Old Recomb",0.666667,0.333333,0.5
+142,"OA","New Sce-New Obj",0.416667,0.083333,0.166667
+142,"OA","New Sce-Old Obj",0.321429,0.428571,0.607143
+142,"OA","Old Sce-New Obj",0.5,0.285714,0.142857
+142,"OA","Old-Old Recomb",0.5,0.5,0.666667
+143,"OA","New Sce-New Obj",0,0,0
+143,"OA","New Sce-Old Obj",0.035714,0.107143,0.071429
+143,"OA","Old Sce-New Obj",0.035714,0.107143,0
+143,"OA","Old-Old Recomb",0.166667,0.166667,0.25
+144,"OA","New Sce-New Obj",0.083333,0,0.083333
+144,"OA","New Sce-Old Obj",0,0.107143,0.035714
+144,"OA","Old Sce-New Obj",0.071429,0.071429,0
+144,"OA","Old-Old Recomb",0.166667,0.333333,0.166667
+146,"OA","New Sce-New Obj",0,0.083333,0.083333
+146,"OA","New Sce-Old Obj",0.035714,0.214286,0.464286
+146,"OA","Old Sce-New Obj",0.892857,0.571429,0.107143
+146,"OA","Old-Old Recomb",1,0.833333,0.416667
+147,"OA","New Sce-New Obj",0.083333,0,0
+147,"OA","New Sce-Old Obj",0.035714,0.178571,0.107143
+147,"OA","Old Sce-New Obj",0.142857,0.071429,0
+147,"OA","Old-Old Recomb",0.083333,0.25,0.166667
+149,"OA","New Sce-New Obj",0,0.166667,0
+149,"OA","New Sce-Old Obj",0.107143,0.25,0.321429
+149,"OA","Old Sce-New Obj",0.285714,0.071429,0.142857
+149,"OA","Old-Old Recomb",0.333333,0.5,0.416667
+151,"OA","New Sce-New Obj",0,0.083333,0
+151,"OA","New Sce-Old Obj",0.035714,0.178571,0.178571
+151,"OA","Old Sce-New Obj",0.142857,0.107143,0.035714
+151,"OA","Old-Old Recomb",0.333333,0.416667,0.333333
